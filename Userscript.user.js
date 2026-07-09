@@ -2,7 +2,7 @@
 // @name         Dark Star Menu
 // @namespace    dark-star-menu
 // @version      1.0.0
-// @description  Bypasses drawing board so you can input answers while also drawing
+// @description  A Khan Academy Utility Mod Menu (AKAUMM)
 // @match        https://www.khanacademy.org/*
 // @match        https://khanacademy.org/*
 // @match        https://*.khanacademy.org/*
